@@ -1,0 +1,80 @@
+.e13_374 { 
+	width:360px;
+	height:640px;
+	position:absolute;
+}.e11_50 { 
+	background-color:rgba(0, 149.81249392032623, 59.92501124739647, 1);
+	width:360px;
+	height:640px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}.e11_51 { 
+	width:320px;
+	height:192px;
+	position:absolute;
+	left:20px;
+	top:24px;
+	background-image:url(images/image_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e11_80 { 
+	width:320px;
+	height:48px;
+	position:absolute;
+	left:20px;
+	top:264px;
+}.ei11_80_11_72 { 
+	color:rgba(245.00000059604645, 245.00000059604645, 245.00000059604645, 1);
+	width:320px;
+	height:48px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	font-family:Inter;
+	text-align:left;
+	font-size:64px;
+	letter-spacing:0;
+	line-height:px;
+}.e11_78 { 
+	width:320px;
+	height:72px;
+	position:absolute;
+	left:20px;
+	top:360px;
+}.ei11_78_11_74 { 
+	color:rgba(245.00000059604645, 245.00000059604645, 245.00000059604645, 1);
+	width:320px;
+	height:72px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+	line-height:px;
+}.e11_54 { 
+	background-color:rgba(245.00000059604645, 245.00000059604645, 245.00000059604645, 1);
+	width:151px;
+	height:48px;
+	position:absolute;
+	left:20px;
+	top:480px;
+	border-top-left-radius:52px;
+	border-top-right-radius:52px;
+	border-bottom-left-radius:52px;
+	border-bottom-right-radius:52px;
+}.ei11_54_2_275 { 
+	color:rgba(30.81249911338091, 30.81249911338091, 30.81249911338091, 1);
+	width:46px;
+	height:24px;
+	position:absolute;
+	left:52.5px;
+	top:12px;
+	font-family:Be Vietnam;
+	text-align:center;
+	font-size:16px;
+	letter-spacing:0;
+	line-height:px;
+}
